@@ -8,11 +8,11 @@
     }
   },
   {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "io.github.barbearialb.agendamento",
-      "sha256_cert_fingerprints": ["BE:1E:3A:96:D2:F7:7B:C8:ED:CC:F9:74:D7:8A:DC:D2:79:10:EF:0F:9E:94:91:FD:17:5C:2B:96:18:7A:36:CD"]
-    }
-  }
-]
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.barbearialb.agendamento",
+        "sha256_cert_fingerprints": ["BE:1E:3A:96:D2:F7:7B:C8:ED:CC:F9:74:D7:8A:DC:D2:79:10:EF:0F:9E:94:91:FD:17:5C:2B:96:18:7A:36:CD"]
+      }
+    }]
+
